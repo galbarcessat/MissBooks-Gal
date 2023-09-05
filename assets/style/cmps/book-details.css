@@ -1,0 +1,29 @@
+.book-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffe4c4;
+  margin-bottom: 1rem;
+}
+
+.categories-list {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+.onsale-txt{
+  color: red;
+  font-family: serif;
+  font-weight: 600;
+  font-size: 2rem;
+
+}
+
+.red{
+  color: red;
+}
+
+.green{
+  color: green;
+}

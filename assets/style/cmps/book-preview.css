@@ -1,0 +1,15 @@
+
+.book-preview {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  /* gap: 1rem; */
+  background-color: #ffe4c4;
+
+}
+
+img {
+  width: 150px;
+}
